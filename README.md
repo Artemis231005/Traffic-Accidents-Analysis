@@ -68,3 +68,7 @@ This project analyzes **traffic accident data** in **Delhi** to identify pattern
 * Some variables (such as speed) may not fully reflect real world scenario
 * Dataset scope is limited to a specific region
 
+---
+
+## Conclusion
+Overall, the project demonstrates that traffic accidents are influenced by a combination of environmental and behavioral factors. These derived insights can support data driven decision making for improving road infrastructure, enforcing safety regulations and enhancing emergency response systems to reduce accident frequency and severity to save lives.
